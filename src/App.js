@@ -11,7 +11,6 @@ import Test from './components/test/Test';
 import { Provider } from './context';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css'; 
-import './App.css';
 
 class App extends Component {
 	render() {
